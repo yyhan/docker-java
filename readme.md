@@ -17,13 +17,10 @@ java docker 镜像。
 
 # 构建
 
-## 本地构建
-
-+ 首先到 [java 官网](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 下载 `linux x64` 版本的 jdk，并放到 `jdk` 目录下；
-+ 在当前目录下运行以下命令：
++ 1、首先到 [java 官网](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 下载 `linux x64` 版本的 jdk，并放到 `jdk` 目录下；
++ 2、在当前目录下运行以下命令：
 
 ```sh
-
 # 仓库地址
 DOCKER_REGISTRY_SERVER=<仓库地址>
 
