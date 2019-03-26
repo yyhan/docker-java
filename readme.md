@@ -2,7 +2,7 @@ java docker 镜像。
 
 # 依赖
 
-基础镜像： [debian:stretch-slim](https://hub.docker.com/_/debian)
+基础镜像： [centos:7.6.1810](https://hub.docker.com/_/debian)
 
 额外依赖：
 + [jdk 8u202](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
